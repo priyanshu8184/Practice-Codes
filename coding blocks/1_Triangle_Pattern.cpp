@@ -1,4 +1,4 @@
-//  Number Triangle Pattern
+//   Number Triangle Pattern
 //      1 
 //       2 3 2 
 //     3 4 5 4 3 
